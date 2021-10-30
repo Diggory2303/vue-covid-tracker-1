@@ -4,7 +4,7 @@
     class="form-select mt-10 block w-full border p-3 rounded"
     @change="onChange()"
   >
-    <option value="0">Select Country</option>
+    <option value="0">Elige el país</option>
     <option v-for="country in countries" :value="country.ID">
       {{ country.Country }}
     </option>

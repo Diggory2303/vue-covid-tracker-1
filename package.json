@@ -8,13 +8,20 @@
   },
   "dependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.2",
+    "apexcharts": "^3.29.0",
     "autoprefixer": "^9",
+    "axios": "^0.24.0",
+    "chart.js": "^2.9.4",
     "core-js": "^3.6.5",
     "dayjs": "^1.10.4",
     "postcss": "^7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "vue": "^3.0.0",
-    "vue-router": "^4.0.0-0"
+    "vue-apexcharts": "^1.6.2",
+    "vue-axios": "^3.3.7",
+    "vue-chartjs": "^3.5.1",
+    "vue-router": "^4.0.0-0",
+    "vue3-apexcharts": "^1.4.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
